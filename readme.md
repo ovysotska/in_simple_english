@@ -6,6 +6,7 @@
 	* **SkLearn_example** - model selection and first steps for optimal parameter selection using sklearn framework
 
 
+## Main folder
 **Kullback_Leibler**  - example of comparing two 1D discrete distribution using Kullback-Leibler divergence.
 
 **ml_regression** - maximum likelihood estimation for linear regression. Bundle adjustment as a ML estimation method
