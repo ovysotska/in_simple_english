@@ -9,6 +9,8 @@ If a notebook has difficulties to render in github, try rendering in [**nbviewer
 ## Main finished notebooks
 [**gradient_descent**](gradient_descent.ipynb) - simplistic visualization of 1D and 2D gradient descent.
 
+[**bag_of_visual_words**](bag_of_visual_words.ipynb) - tf-idf reweighting for visual bag of words in pictures.
+
 [**homogeneous_coords**](homogeneous_coords.ipynb) - couple of geometric operation for homogeneous points.
 
 [**Interpolation**](Interpolation.ipynb) - mainly thoughts about cubic interpolation and how to apply interpolations for scaling up images.
