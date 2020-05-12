@@ -9,7 +9,7 @@ The links below will render the notebooks in [**nbviewer**](https://nbviewer.jup
 ## Main finished notebooks
 [**gradient_descent**](https://nbviewer.jupyter.org/github/ovysotska/in_simple_english/blob/master/gradient_descent.ipynb) - simplistic visualization of 1D and 2D gradient descent.
 
-[**bag_of_visual_words**](https://nbviewer.jupyter.org/github/ovysotska/in_simple_english/blob/master/bag_of_visual_words.ipynb) - tf-idf reweighting for visual bag of words in pictures.
+[**bag_of_visual_words**](bag_of_visual_words.ipynb) - tf-idf reweighting for visual bag of words in pictures.
 
 [**homogeneous_coords**](https://nbviewer.jupyter.org/github/ovysotska/in_simple_english/blob/master/homogeneous_coords.ipynb) - couple of geometric operation for homogeneous points.
 
