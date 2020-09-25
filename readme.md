@@ -7,6 +7,13 @@ Here you can find a collection of Jupyter notebooks with different amount of con
 The links below will render the notebooks in [**nbviewer**](https://nbviewer.jupyter.org/).
 
 ## Main finished notebooks
+|  |   | |
+:-------------------------:|:-------------------------: | :-------------------------:
+[![](data/intro/gradient_descent.png)](https://nbviewer.jupyter.org/github/ovysotska/in_simple_english/blob/master/gradient_descent.ipynb)   |     [![](data/intro/interpolation.png)](https://nbviewer.jupyter.org/github/ovysotska/in_simple_english/blob/master/Interpolation.ipynb) |  [![](data/intro/la_systems.png)](https://nbviewer.jupyter.org/github/ovysotska/in_simple_english/blob/master/system_of_linear_equations.ipynb)
+[![](data/intro/bag_of_words.png)](bag_of_visual_words.ipynb)  |  [![](data/intro/local_image_operators.png)](https://nbviewer.jupyter.org/github/ovysotska/in_simple_english/blob/master/local_image_operators.ipynb)  |  [![](data/intro/tp_sorting.png)](https://nbviewer.jupyter.org/github/ovysotska/in_simple_english/blob/master/topological_sorting.ipynb)
+[![](data/intro/kl_divergence.png)](https://nbviewer.jupyter.org/github/ovysotska/in_simple_english/blob/master/Kullback_Leibler.ipynb) |   [![](data/intro/ml_regression.png)](https://nbviewer.jupyter.org/github/ovysotska/in_simple_english/blob/master/ml_regression.ipynb) |
+
+
 [**gradient_descent**](https://nbviewer.jupyter.org/github/ovysotska/in_simple_english/blob/master/gradient_descent.ipynb) - simplistic visualization of 1D and 2D gradient descent.
 
 [**bag_of_visual_words**](bag_of_visual_words.ipynb) - tf-idf reweighting for visual bag of words in pictures.
